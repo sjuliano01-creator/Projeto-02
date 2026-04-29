@@ -11,3 +11,12 @@ img {
 width: 488px;
 height: 550px;
 }
+  main {
+    display: inline;
+}
+a {
+    width: 280px;
+    height: 79px;
+    background-color: #22D4FD;
+}
+
