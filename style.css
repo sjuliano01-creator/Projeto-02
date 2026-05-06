@@ -13,7 +13,7 @@ img {
 }
 
 main {
-    display: inline;
+    display: flex;
 }
 
 a {
@@ -22,6 +22,7 @@ a {
     background-color: #22D4FD;
     border-radius: 16px;
     padding: 16px;
+    margin: 20px;
 }
 
 .texto {
