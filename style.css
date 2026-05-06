@@ -1,19 +1,21 @@
-body{
+body {
     background-color: #000000;
     color: #F6F6F6;
 }
 
-strong{
+strong {
     color: #22D4FD;
 }
 
 img {
-width: 488px;
-height: 550px;
+    width: 488px;
+    height: 550px;
 }
-  main {
+
+main {
     display: inline;
 }
+
 a {
     width: 280px;
     height: 79px;
@@ -22,7 +24,12 @@ a {
     padding: 16px;
 }
 
-    .texto{
+.texto {
     width: 593px;
     height: 352px;
-    }
+}
+
+.principal {
+    display: flex;
+    flex-direction: column;
+}
